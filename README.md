@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently studying at **42 Wolfsburg**
 
-- 👨‍💻 I am also interested in [Ethical Hacking, Penetration Testing](Ethical Hacking, Penetration Testing)
+- 👨‍💻 I am very interested in: Ethical Hacking, Penetration Testing
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny** (๑>◡<๑)
 
 
 <h3 align="left">Languages and Tools that I use:</h3>
