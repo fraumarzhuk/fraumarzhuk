@@ -3,7 +3,7 @@
 ```
 hi, i’m marianna (◕‿◕)♡
 
-i write code, break things, then fix them again (hopefully).  
+I write code, build things, and fix what needs fixing
 currently exploring the world of **kotlin** but most comfortable with **C** and **C++**.  
 sometimes i do little website-pages, such [this one](https://safatalfahim.com/)
 
