@@ -9,7 +9,8 @@ sometimes i do little website-pages, such [this one](https://safatalfahim.com/)
 
 
 ### :★’.･.･:☆  about :★’.･.･:☆
-- ☆ interested in **backend development** and **parsing**  
+- ☆ interested in **backend development**
+- ☆ love parsing things
 - ☆ proficient in **C** and **C++**, with a strong systems programming background
 - ☆ can sprinkle some **frontend**
 - ☆ i play volleyball
