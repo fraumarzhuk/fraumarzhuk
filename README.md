@@ -11,7 +11,6 @@ sometimes i do little website-pages, such [this one](https://safatalfahim.com/)
 ### :★’.･.･:☆  about :★’.･.･:☆
 - ☆ interested in **backend development** and **parsing**  
 - ☆ proficient in **C** and **C++**, with a strong systems programming background
-- ☆ big fan of **kotlin**, even though just started exploring
 - ☆ can sprinkle some **frontend**
 - ☆ i play volleyball
 - ☆ in oikawa tooru i trust
